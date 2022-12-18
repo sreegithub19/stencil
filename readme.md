@@ -17,7 +17,7 @@ To get started with Stencil deployed with Vercel, you can use the [Stencil proje
 ```shell
 $ npm init stencil - to start a new project
 
-To run the project:
+To run this project:
   $ npm install
   $ npm start
 
