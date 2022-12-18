@@ -15,5 +15,12 @@ _Live Example: https://stencil-template.vercel.app_
 To get started with Stencil deployed with Vercel, you can use the [Stencil project initializer](https://stenciljs.com/docs/getting-started#starting-a-new-project) to initialize the project:
 
 ```shell
-$ npm init stencil
+$ npm init stencil - to start a new project
+
+To run the project:
+  $ npm install
+  $ npm start
+
+- Git: git add . && git commit -m "C" && git push origin main
+- Vercel: vercel --prod
 ```
