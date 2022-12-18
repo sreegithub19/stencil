@@ -22,5 +22,5 @@ To run the project:
   $ npm start
 
 - Git: git add . && git commit -m "C" && git push origin main
-- Vercel: vercel --prod
+- Vercel: vercel --prod  (this step is not required)
 ```
